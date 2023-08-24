@@ -4,7 +4,7 @@ ___
 ## Architecture
 The repository includes following files:  
 - [src](src/): Contains the implementation of the learning agent class. 
-- [Jupiter Notebook Example](Jupiter Notebook Example/):  Contains Jupyter Notebook examples utilizing the implemented learning agent to solve single agent and multi-agent combinatorial optimization problems in a decentralized manner.
+- Jupiter Notebook Examples:  Contains Jupyter Notebook examples utilizing the implemented learning agent to solve single agent and multi-agent combinatorial optimization problems in a decentralized manner.
  ___
 ## Contact
 For any further information, you can contact me at <sharyal.zafar@ens-rennes.fr>.
